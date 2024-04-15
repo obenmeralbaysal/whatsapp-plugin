@@ -13,7 +13,7 @@ This is a custom WordPress plugin that allows you to easily add a WhatsApp butto
 
 ## Settings
 
-1. Go to the "Chat Button" menu in the WordPress admin panel.
+1. Go to the "WhatsApp" menu in the WordPress admin panel.
 2. Configure your WhatsApp number, select an image, set a default message, and adjust the button's position.
 3. Click the "Save Changes" button to save your settings.
 
